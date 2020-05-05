@@ -7,6 +7,7 @@ public class EjempliGit {
 		System.out.println("Primer ejemplo Git");
 		System.out.println("Soy Rosana");
 		System.out.println("hoy 5/5/2020");
+		System.out.println("Push a GitHub");
 	}
 
 }
